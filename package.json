@@ -1,0 +1,24 @@
+{
+  "name": "Node.js_GB",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Evgeniy-EMkh/Node.js_GB.git"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Evgeniy-EMkh/Node.js_GB/issues"
+  },
+  "homepage": "https://github.com/Evgeniy-EMkh/Node.js_GB#readme",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
